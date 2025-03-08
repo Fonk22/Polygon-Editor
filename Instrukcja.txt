@@ -1,0 +1,25 @@
+Przesuwanie wierzchołków lub punktów kontrolnych - najedź i przytrzymaj lewy przycisk myszy
+Przesuwanie całego wielokąta - umieść kursor w środku wielokąta i przytrzymaj lewy przycisk myszy
+
+Usuwanie wierzchołka - kliknij prawym przyciskiem myszy w wybrany wierzchołek i wybierz 'Remove Vertex' z menu kontekstowego
+
+Usuwanie krawędzi - kliknij prawym przyciskiem myszy na wybraną krawędź i wybierz 'Remove Edge'
+
+Usuwanie całego wielokąta - kliknij prawym przyciskiem myszy wewnątrz wielokąta i wybierz 'Remove Polygon' lub kliknij 'Clear' w górnym menu
+
+Dodawanie wierzchołka w środku wybranej krawędzi - kliknij prawym przyciskiem myszy na krawędź i wybierz 'Split Edge' z menu kontekstowego
+
+Dodawanie ograniczeń dla krawędzi - kliknij prawym przyciskiem myszy na krawędź wybierz 'Add Edge Constraint' i wybierz ograniczenie
+
+Usuwanie ograniczeń dla krawędzi - kliknij prawym przyciskiem myszy na krawędź i wybierz 'Remove Constraint'
+
+Włączanie dla wybranej krawędzi segmentu Beziera 3-go stopnia - kliknij prawym przyciskiem myszy na krawędź i wybierz 'Convert to Bezier'
+
+Wyłączanie segmentu Beziera 3-go stopnia - kliknij prawym przyciskiem myszy na dowolny punkt kontrolny segmentu i wybierz 'Convert to Edge'
+
+Usuwanie segmentu Beziera 3-go stopnia - kliknij prawym przyciskiem myszy na dowolny punkt kontrolny segmentu i wybierz 'Remove Edge'
+
+Zmienianie ciągłości w wierzchołku - kliknij prawym przyciskiem myszy w wierzchołku i wybierz 'Change Continuity Constraint' - opcja ta jest dostępna tylko gdy wierzchołek sąsiaduje z segmentem beziera
+
+Zmiana algorytmu rysowania linii i krzywej beziera - wybierz odpowiednią opcję z zakładki 'Settings' w menu 
+

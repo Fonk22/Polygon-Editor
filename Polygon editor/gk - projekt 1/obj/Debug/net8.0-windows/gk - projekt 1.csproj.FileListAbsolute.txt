@@ -1,0 +1,64 @@
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.exe
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.deps.json
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.runtimeconfig.json
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.pdb
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk___projekt_1.Form1.resources
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.csproj.GenerateResource.cache
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.AssemblyInfoInputs.cache
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.AssemblyInfo.cs
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.csproj.CoreCompileInputs.cache
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\refint\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.pdb
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.genruntimeconfig.cache
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\ref\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.exe
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.deps.json
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.runtimeconfig.json
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.pdb
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk___projekt_1.Form1.resources
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.csproj.GenerateResource.cache
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.AssemblyInfoInputs.cache
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.AssemblyInfo.cs
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.csproj.CoreCompileInputs.cache
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\refint\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.pdb
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.genruntimeconfig.cache
+C:\Users\Mikos\OneDrive\Pulpit\gk-backup3\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\ref\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk___projekt_1.Form1.resources
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.csproj.GenerateResource.cache
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.AssemblyInfoInputs.cache
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.AssemblyInfo.cs
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.csproj.CoreCompileInputs.cache
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\refint\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.pdb
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.exe
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.deps.json
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.runtimeconfig.json
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.pdb
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.genruntimeconfig.cache
+C:\Users\Mikos\OneDrive\Pulpit\gkProjekt - backup\gk - projekt 1\gk - projekt 1\obj\Debug\net8.0-windows\ref\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.exe
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.deps.json
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.runtimeconfig.json
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\bin\Debug\net8.0-windows\gk - projekt 1.pdb
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\obj\Debug\net8.0-windows\gk___projekt_1.Form1.resources
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.csproj.GenerateResource.cache
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.AssemblyInfoInputs.cache
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.AssemblyInfo.cs
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.csproj.CoreCompileInputs.cache
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\obj\Debug\net8.0-windows\refint\gk - projekt 1.dll
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.pdb
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\obj\Debug\net8.0-windows\gk - projekt 1.genruntimeconfig.cache
+C:\Users\Mikos\OneDrive\Pulpit\grafika komputerowa - projekty\gk1 - Mikołaj Karbowski\gk - projekt 1\obj\Debug\net8.0-windows\ref\gk - projekt 1.dll

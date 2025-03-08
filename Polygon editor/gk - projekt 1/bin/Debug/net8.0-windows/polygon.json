@@ -1,0 +1,123 @@
+{
+  "IsClosed": true,
+  "Vertices": [
+    {
+      "Constraint": null,
+      "X": 348,
+      "Y": 330,
+      "Id": 0
+    },
+    {
+      "Constraint": null,
+      "X": 646.46606,
+      "Y": 330,
+      "Id": 1
+    },
+    {
+      "Constraint": {
+        "$type": "G1ContinuityConstraint"
+      },
+      "X": 793.33307,
+      "Y": 450.44867,
+      "Id": 2
+    },
+    {
+      "Constraint": {
+        "$type": "C1ContinuityConstraint"
+      },
+      "X": 348,
+      "Y": 700,
+      "Id": 3
+    }
+  ],
+  "Edges": [
+    {
+      "Constraint": {
+        "$type": "HorizontalConstraint"
+      },
+      "prev": {
+        "Constraint": null,
+        "X": 348,
+        "Y": 330,
+        "Id": 0
+      },
+      "next": {
+        "Constraint": null,
+        "X": 646.46606,
+        "Y": 330,
+        "Id": 1
+      }
+    },
+    {
+      "Constraint": {
+        "$type": "FixedLengthConstraint",
+        "Length": 188.67963
+      },
+      "prev": {
+        "Constraint": null,
+        "X": 646.46606,
+        "Y": 330,
+        "Id": 1
+      },
+      "next": {
+        "Constraint": {
+          "$type": "G1ContinuityConstraint"
+        },
+        "X": 793.33307,
+        "Y": 450.44867,
+        "Id": 2
+      }
+    },
+    {
+      "Constraint": {
+        "$type": "VerticalConstraint"
+      },
+      "prev": {
+        "Constraint": {
+          "$type": "C1ContinuityConstraint"
+        },
+        "X": 348,
+        "Y": 700,
+        "Id": 3
+      },
+      "next": {
+        "Constraint": null,
+        "X": 348,
+        "Y": 330,
+        "Id": 0
+      }
+    },
+    {
+      "$type": "BezierEdge",
+      "ControlPointA": {
+        "Constraint": null,
+        "X": 921.9352,
+        "Y": 555.9179,
+        "Id": 4
+      },
+      "ControlPointB": {
+        "Constraint": null,
+        "X": 348,
+        "Y": 823.3333,
+        "Id": 5
+      },
+      "Constraint": null,
+      "prev": {
+        "Constraint": {
+          "$type": "G1ContinuityConstraint"
+        },
+        "X": 793.33307,
+        "Y": 450.44867,
+        "Id": 2
+      },
+      "next": {
+        "Constraint": {
+          "$type": "C1ContinuityConstraint"
+        },
+        "X": 348,
+        "Y": 700,
+        "Id": 3
+      }
+    }
+  ]
+}
