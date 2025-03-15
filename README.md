@@ -8,16 +8,17 @@ Dzięki niemu użytkownik może swobodnie modelować kształty, stosując zarów
 - **Tworzenie i edycja wielokątów**:
   - Intuicyjne tworzenie wielokątów poprzez dodawanie i usuwanie wierzchołków oraz krawędzi
   - Wygodne przesuwanie wierzchołków oraz całego wielokąta
-  - Możliwość ustawiania ograniczeń dla krawędzi oraz wierzchołków
+  - Ustawianie ograniczeń dla krawędzi oraz wierzchołków
+  - Zapis i wczytywanie wielokątów, umożliwiające przechowywanie projektu w pliku i jego późniejszą edycję.
 - **Obsługa krzywych Béziera 3-go stopnia**:
-  - Możliwość zamiany krawędzi na segmenty Béziera
+  - Zamiana krawędzi na segmenty Béziera
   - Manipulacja punktami kontrolnymi
-  - Opcja ustawienia klady ciągłości w wierzchołku 
+  - Opcja ustawienia klasy ciągłości w wierzchołku 
 - **Zaawansowane ograniczenia geometryczne**:
   - Ograniczenia dla krawędzi wielokąta:
     - Ustalona długość krawędzi (zachowuje stałą długość podczas edycji)
-    - Krawędź pionowa – zawsze prostopadła do osi X
-    - Krawędź pozioma – zawsze równoległa do osi X
+    - Krawędź pionowa – krawędź zawsze prostopadła do osi X
+    - Krawędź pozioma – krawędź zawsze równoległa do osi X
   - Ciągłość klasy C1 w wierzchołku - ciągłość wektora stycznego
   - Ciągłość klasy G1 w wierzchołku - ciągłość jednostkowego wektora stycznego
 - **Precyzyjne rysowanie**:
