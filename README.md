@@ -25,7 +25,7 @@ Dzięki niemu użytkownik może swobodnie modelować kształty, stosując zarów
   - Wykorzystanie algorytmu Bresenhama do rysowania linii
   - Algorytm przyrostowy do renderowania krzywych Béziera
 
-## 📷 Demo 
+## 📸 Demo 
 ![Image](https://github.com/user-attachments/assets/6757717b-1192-4675-ad5a-96afe4f20498)
 ## 🔗 Algorytm zachowywania ograniczeń
 
